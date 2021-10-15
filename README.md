@@ -1,2 +1,2 @@
 # critica-de-jogos
-API simples para gerenciamento de criticas de games feitas por usuários
+Projeto para gerenciamento de criticas de jogos
